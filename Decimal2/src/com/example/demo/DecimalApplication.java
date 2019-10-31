@@ -1,6 +1,6 @@
 package com.example.demo;
 import java.util.Scanner;
-
+//prueba
 public class DecimalApplication {
 
 	public static void main(String[] args) {
